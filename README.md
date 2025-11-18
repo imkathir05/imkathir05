@@ -1,30 +1,93 @@
-## Hi there 👋 It's me Kathiravan
+<div align="center">
+  <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="370" height="290" alt="Welcome" />
+</div>
 
-Software Developer @ IndiaFilings
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 👋 Hi, I’m Kathiravan
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on AI/ML
-- 💬 Ask me about Tech
-- 📫 How to reach me: ↓
-  <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/-kathiravan-m/)
-- Short Pronouns:Kathir
-- Have strong knowledge on Data structures and Algorithms. kathir05 Profile with 300+ Coding problems solved in GeeksForGeeks, leetcode and Coding Ninjas .
+<h1 align="center">Hi there 👋 It's me Kathiravan</h1>
 
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img width="50" height="50" src="https://img.icons8.com/ios/50/django.png" alt="django"/>
+<h3 align="center">Software Developer @ IndiaFilings | Problem Solver | AI/ML Enthusiast</h3>
 
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/spyder-ide-5.png" alt="spyder-ide-5"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> 
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-kathiravan-m/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imkathir05)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kathir05/)
+  
+</div>
 
-![Kathir's GitHub stats](https://github-readme-stats.vercel.app/api?username=imkathir05&theme=dark&show_icons=true&&hide=issues,contribs)
-![LeetCode Stats](https://leetcard.jacoblin.cool/kathir05?theme=dark&font=Marcellus&ext=contest)
-[![Kathir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imkathir05&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
+## 👨‍💻 About Me
+
+- 👋 Hi, I'm **Kathiravan** (you can call me **Kathir**)
+- 💼 Currently working as a **Software Developer** at **IndiaFilings**
+- 👀 I'm interested in **Programming** and **Problem Solving**
+- 🌱 I'm currently learning **Data Structures and Algorithms**
+- 💞️ I'm looking to collaborate on **AI/ML** projects
+- 💬 Ask me about **Tech**, **DSA**, or **Web Development**
+- 🎯 **300+ Coding Problems** solved across GeeksForGeeks, LeetCode, and Coding Ninjas
+- ⚡ Fun fact: I love solving complex problems and building efficient solutions
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Cloud & Tools
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🛠️ IDEs & Tools
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+
+---
+
+
+---
+
+## 🏆 Coding Achievements
+
+- ✅ **300+ Problems Solved** across multiple platforms
+- 🎯 Active on **GeeksForGeeks**, **LeetCode**, and **Coding Ninjas**
+- 💪 Strong knowledge of **Data Structures and Algorithms**
+
+---
+
+<div align="center">
+  
+  ### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+  
+  ⭐️ From [imkathir05](https://github.com/imkathir05)
+  
+</div>
+
+---
 
 <!---
-
 imkathir05/imkathir05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
